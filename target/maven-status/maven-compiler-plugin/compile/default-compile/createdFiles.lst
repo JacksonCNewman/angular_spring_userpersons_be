@@ -1,0 +1,4 @@
+com\projects\person_backend\entity\Person.class
+com\projects\person_backend\repository\PersonRepository.class
+com\projects\person_backend\BefeApplication.class
+com\projects\person_backend\controller\PersonController.class
